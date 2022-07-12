@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://joellhss.github.io/my-team-project/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/joellhss/my-team-project">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/joellhss/my-team-project/blob/master/assets/Captura%20de%20tela%20de%202022-07-12%2013-32-12.png?raw=true)
 
 This project was developed with the aim of practicing responsiveness on websites. Challenged proposed by the devChallenge.
 
